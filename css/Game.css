@@ -1,0 +1,53 @@
+.row{
+  display: flex;
+}
+
+
+.column{
+  flex: 50%;
+  padding: 5px;
+  
+}
+
+#creepy, #happy{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px; 
+
+}
+
+#dark, #light{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px; 
+
+}
+
+#strong, #smart{
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px; 
+}
+
+#fire, #ice{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px; 
+
+}
+
+#city, #countryside{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px; 
+  padding: 10px;
+}
+
+#notfamous{
+  size: 300px
+}
